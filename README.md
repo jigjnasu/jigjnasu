@@ -22,6 +22,12 @@
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/ruby-programming-language.png"/>
 </p>
 
+<p align="center">
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/kubernetes.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/docker.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/azure.png"/>
+</p>
+
 
 ### 💻 More Github
 <details>	
