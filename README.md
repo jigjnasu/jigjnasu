@@ -10,7 +10,7 @@
 * 💻 For the love of Computer Science.
 * 💡 Wants to work on some complex and interesting projects.
 * 💻 Data Structure and Algorithms.
-* 👍 Most beautiful Mathematical equation __$e^{i\pi} + 1 = 0$__.
+* 👍 __$e^{i\pi} + 1 = 0$__.
 
 
 ###  💻 &nbsp;Tech Stack
