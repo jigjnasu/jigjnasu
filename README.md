@@ -15,11 +15,11 @@
 
 ### <span style="color:blue"> 💻 &nbsp;Tech Stack </span>
 <p align="center">
-  <img width="20%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
-  <img width="20%" style="padding:5px" src="https://github.com/jigjnasu/jigjnasu/blob/master/cpp.png"/>
-  <img width="20%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-  <img width="20%" style="padding:5px" src="https://img.icons8.com/color/144/000000/lua-language.png"/>
-  <img width="20%" style="padding:5px" src="https://img.icons8.com/color/144/000000/ruby-programming-language.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
+  <img width="10%" style="padding:5px" src="https://github.com/jigjnasu/jigjnasu/blob/master/cpp.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/lua-language.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/ruby-programming-language.png"/>
 </p>
 
 
@@ -45,4 +45,8 @@
 
 <details>
  <summary><b>💻Work Time</b></summary>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
 </details>
