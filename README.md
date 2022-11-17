@@ -1,19 +1,19 @@
-## <span style="color:blue">Hello 👋, I am जिज्ञासु (Curious for Knowledge)</span>
+## Hello 👋, I am जिज्ञासु (Curious for Knowledge)
 
-### <span style="color:blue">Github</span>
+### Github
 <img src="https://komarev.com/ghpvc/?username=jigjnasu&label=Profile%20views&color=0e75b6&style=flat" alt="jigjnasu" /> ![GitHub followers](https://img.shields.io/github/followers/jigjnasu) ![GitHub User's stars](https://img.shields.io/github/stars/jigjnasu)
 
-### <span style="color:blue">Me 😊 </span> 
+### 😊 Me 
 
 * 💡 Curious Learner.
 * 📖 For the love of Mathematics.
 * 💻 For the love of Computer Science.
 * 💡 Wants to work on some complex and interesting projects.
 * 💻 Data Structure and Algorithms.
-* 👍 Most beautiful Mathematical equation __<span style="color:blue">$e^{i\pi} + 1 = 0$</span>__.
+* 👍 Most beautiful Mathematical equation __$e^{i\pi} + 1 = 0$__.
 
 
-### <span style="color:blue"> 💻 &nbsp;Tech Stack </span>
+###  💻 &nbsp;Tech Stack
 <p align="center">
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
   <img width="10%" style="padding:5px" src="https://github.com/jigjnasu/jigjnasu/blob/master/cpp.png"/>
@@ -23,7 +23,7 @@
 </p>
 
 
-### <span style="color:blue"> 💻 More Github </span>
+### 💻 More Github
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -50,3 +50,4 @@
   <!--END_SECTION:waka-->
 
 </details>
+
