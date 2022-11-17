@@ -1,4 +1,4 @@
-## Hello 👋, I am जिज्ञासु (Curious for Knowledge)
+## Hello 👋, I am Rakesh Kumar
 
 ### Github
 <img src="https://komarev.com/ghpvc/?username=jigjnasu&label=Profile%20views&color=0e75b6&style=flat" alt="jigjnasu" /> ![GitHub followers](https://img.shields.io/github/followers/jigjnasu) ![GitHub User's stars](https://img.shields.io/github/stars/jigjnasu)
