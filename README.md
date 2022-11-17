@@ -15,19 +15,19 @@
 
 ###  💻 &nbsp;Tech Stack
 <p align="center">
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
-  <img width="10%" style="padding:5px" src="https://github.com/jigjnasu/jigjnasu/blob/master/cpp.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/lua-language.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/ruby-programming-language.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
+  <img width="5%" style="padding:5px" src="https://github.com/jigjnasu/jigjnasu/blob/master/cpp.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/lua-language.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/ruby-programming-language.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/js.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/kubernetes.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/docker.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/azure.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/postgresql.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/oracle-logo.png"/>
+  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/microsoft-sql-server.png"/>
 </p>
-
-<p align="center">
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/kubernetes.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/docker.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/azure.png"/>
-</p>
-
 
 ### 💻 More Github
 <details>	
