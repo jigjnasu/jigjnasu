@@ -52,17 +52,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigjnasu&margin-w=5" alt="jigjnasu" /></a> </p>
 </details>
 
-<details>
- <summary><b>💻Work Time</b></summary>
-
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-
-</details>
-
 <div align="center">
 
 ### Some of my code 👇
