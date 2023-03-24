@@ -25,7 +25,7 @@
   <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/docker.png"/>
   <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/terraform.png"/>
   <img width="5%" style="padding:5px" src="https://github.com/jigjnasu/jigjnasu/blob/master/images/rke.png"/>
-  <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/azure.png"/>
+  <img width="5%" style="padding:5px" src="https://github.com/jigjnasu/jigjnasu/blob/master/images/azure.png"/>
   <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/postgresql.png"/>
   <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/oracle-logo.png"/>
   <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/microsoft-sql-server.png"/>
